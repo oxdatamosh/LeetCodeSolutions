@@ -10,7 +10,7 @@ import Testing
 
 @testable import LeetCodeSolutions
 
-@Suite("0001 Two Sum tests")
+@Suite("0001 Two Sum")
 struct TwoSumTests {
     
     @Test func testCase1() async throws {
